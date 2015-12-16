@@ -96,10 +96,61 @@ footer{
 }
 
 .jumbotron{
-  background: url('http://wallpapers.windowsace.com/pics/w/a/wallpapers-live-chat-by-liveperson-xbox-360-logo-wallpaper-more-c-e-ibackgroundz.com.jpg') no-repeat center;
+  background: url('http://i1379.photobucket.com/albums/ah127/kpress18/IMG_20151212_231804_zpslfofbyk8.jpg') no-repeat center;
   background-size: cover;
 }
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
-}
+}/*
+  Built Mobile First: All Generic sizing and layouts are placed in main part of CSS. 
+  All sizing and layout changes specific to screen sizes is down in media-query area.
+  All color based things are seperate to allow for tweaking later out.
+*/
+
+/**********************************
+GENERAL
+***********************************/
+
+
+/**********************************
+NAVIGATION 
+***********************************/
+
+
+
+/**********************************
+HEADER
+***********************************/
+
+
+/**********************************
+MAIN CONTENT
+***********************************/
+
+
+/**********************************
+FOOTER - Layout and Sizing
+***********************************/
+
+
+/**********************************
+PAGE: _______
+***********************************/
+
+
+
+/**********************************
+FONTS
+***********************************/
+
+
+
+/**********************************
+COLORS and BACKGROUNDS
+Color 1:5729FF
+Color 1:white
+Color 1:grey 
+Color 1:black
+Color 1:blue
+/**********************************
