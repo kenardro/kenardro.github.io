@@ -83,9 +83,14 @@ Color 1:
 Color 1:
 Color 1:
 ***********************************/
+body to video1.html
+{
+    background:#000000 ;
+}
+
 
 html{
-    background:#FF0000;
+    background:#000000 ;
 }
 article{
     background:#FFF4F8;
